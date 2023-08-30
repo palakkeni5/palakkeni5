@@ -5,13 +5,13 @@
 
 - 🔭 I have worked on [Weather App project](https://github.com/palakkeni5/Weather-App)
 
-- 🌱 I’m currently learning **Kubernetes, ETL and Java Spring**
-
 - 🔭 I have worked on [Pokedex-App](https://github.com/palakkeni5/Pokedex-App)
 
-- 💬 Ask me about **React, Node JS and SQL**
+- 🌱 I’m currently learning **Kubernetes, ETL and Java Spring**
 
-- 📫 How to reach me **palakkeni@gmail.com**
+- 💬 Ask me about **React JS, Node JS and SQL**
+
+- 📫 How to reach me ? **palakkeni@gmail.com**
 
 - 📄 Know about my professional experiences : [Link to my resume](https://docs.google.com/document/d/1S2XgfLiGQAn-Qmim3Llk0yi8TJLcDoZ0/edit?usp=sharing&ouid=112109212249568874081&rtpof=true&sd=true)
 
