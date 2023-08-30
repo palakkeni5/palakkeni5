@@ -17,9 +17,16 @@
 
 - ⚡ Fun fact **I love cooking**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/palak-keni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-keni" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Organizations that I have previously worked in</h3>
+<p align="left">
+<a href="https://www.linkedin.com/company/juniper-networks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/palakkeni5/palakkeni5/main/Juniper-logo.jpg" alt="Juniper Networks" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/oracle" target="blank"><img align="center" src="https://raw.githubusercontent.com/palakkeni5/palakkeni5/main/Oracle-logo.jpg" alt="Oracle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/quantiphi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/palakkeni5/palakkeni5/main/Quanntiphi-logo.jpg" alt="Quantiphi Analytics" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
