@@ -11,7 +11,7 @@
 
 - 🔭 I have worked on [Pokedex-App](https://github.com/palakkeni5/Pokedex-App)
 
-- 🌱 I’m currently learning **Kubernetes, ETL and Java Spring**
+- 🌱 I’m currently learning **Kotlin, Kubernetes and ETL**
 
 - 💬 Ask me about **React JS, Node JS and SQL**
 
