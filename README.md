@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palakkeni5" alt="palakkeni5" /></a> </p>
 
+- 🔭 I have worked on [wallpaper-app](https://github.com/palakkeni5/wallpaper-app)
+
 - 🔭 I have worked on [Chat App](https://github.com/palakkeni5/one-room-chat-app)
 
 - 🔭 I have worked on [Awesome Superstore Inc.](https://github.com/palakkeni5/awesome-superstore-app) business case
