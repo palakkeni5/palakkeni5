@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palakkeni5" alt="palakkeni5" /></a> </p>
 
-- 🔭 I have worked on [wallpaper-app](https://github.com/palakkeni5/wallpaper-app)
+- 🔭 I have worked on [Wallpaper-app](https://github.com/palakkeni5/wallpaper-app) using React Native, Kotlin and Gradle
 
-- 🔭 I have worked on [Chat App](https://github.com/palakkeni5/one-room-chat-app)
+- 🔭 I have worked on [Chat App](https://github.com/palakkeni5/one-room-chat-app) using React, Spring Boot, Kafka, and PostgreSQL
 
 - 🔭 I have worked on [Awesome Superstore Inc.](https://github.com/palakkeni5/awesome-superstore-app) business case
 
-- 🔭 I have worked on [Weather App project](https://github.com/palakkeni5/Weather-App)
+- 🔭 I have worked on [Weather App project](https://github.com/palakkeni5/Weather-App) using React
 
-- 🔭 I have worked on [Pokedex-App](https://github.com/palakkeni5/Pokedex-App)
+- 🔭 I have worked on [Pokedex-App](https://github.com/palakkeni5/Pokedex-App) using Angular
 
 - 🌱 I’m currently learning **Kotlin, Kubernetes and ETL**
 
-- 💬 Ask me about **React JS, Node JS and SQL**
+- 💬 Ask me about **Java, React JS, Node JS and SQL**
 
 - 📫 How to reach me ? **palakkeni@gmail.com**
 
