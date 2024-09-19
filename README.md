@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palakkeni5" alt="palakkeni5" /></a> </p>
 
+- 📄 [Check out my portfolio website here](https://palakkeni5.github.io/portfolio/)
+  
 - 🔭 I have worked on [Wallpaper-app](https://github.com/palakkeni5/wallpaper-app) using React Native, Kotlin and Gradle
 
 - 🔭 I have worked on [Chat App](https://github.com/palakkeni5/one-room-chat-app) using React, Spring Boot, Kafka, and PostgreSQL
@@ -20,8 +22,6 @@
 - 📫 How to reach me ? **palakkeni@gmail.com**
 
 - 📄 Know about my professional experiences : [Link to my resume](https://docs.google.com/document/d/1S2XgfLiGQAn-Qmim3Llk0yi8TJLcDoZ0/edit?usp=sharing&ouid=112109212249568874081&rtpof=true&sd=true)
-  
-- 📄 [Check out my portfolio website here](https://palakkeni5.github.io/portfolio/)
 
 - ⚡ Fun fact **I love cooking**
 
